@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.1dev'
+version = '1.0'
 
 setup(name='collective.js.nivoslider',
       version=version,
@@ -13,7 +13,7 @@ setup(name='collective.js.nivoslider',
       classifiers=[
         "Programming Language :: Python",
         ],
-      keywords='',
+      keywords='nivo gallery nivoslider slider plone plonetruegallery',
       author='Espen Moe-Nillssen',
       author_email='espen@medialog.no',
       url='http://github.com/espenmn/collective.js.nivoslider',
