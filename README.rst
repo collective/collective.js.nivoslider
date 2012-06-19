@@ -16,7 +16,7 @@ Companies
 * `Grieg Medialog <http://www.medialog.no>`_
 * `Contact us <mailto:espen@medialog.no>`_
 * `Planet Makina Corpus <http://www.makina-corpus.org>`_
-* `Contact us <mailto:python@makina-corpus.org>`_
+* `Contact Makina <mailto:python@makina-corpus.org>`_
 
 Authors
 
