@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.0.1.1 (unreleased)
+3.0.1.1 (2012-06-19)
 --------------------
 - Upgrade nivoslider to 3.0.1 [toutpt]
 - Add demo page: use the provided buildout and hit /@@example.nivoslider [toutpt]
